@@ -8,5 +8,6 @@ public class Singleton {
 	}
 	public void doSomething(){  
 		 //write your code  
+		System.out.println("Singleton class");
 		 }  
 }
